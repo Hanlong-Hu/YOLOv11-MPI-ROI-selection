@@ -1,6 +1,6 @@
-train: /home/hanlong/YOLOv11-MPI-ROI-selection/datasets/train/images
-val: /home/hanlong/YOLOv11-MPI-ROI-selection/datasets/valid/images
-test: /home/hanlong/YOLOv11-MPI-ROI-selection/datasets/test/images
+train: /home/hanlong/YOLOv11-MPI-ROI-selection/dataset/train/images
+val: /home/hanlong/YOLOv11-MPI-ROI-selection/dataset/valid/images
+test: /home/hanlong/YOLOv11-MPI-ROI-selection/dataset/test/images
 
 nc: 1
 names: ['Ultrasound-Waves']
