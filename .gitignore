@@ -3,8 +3,6 @@ venv
 # training outputs
 runs/
 
-# datasets (large binary files — manage via Roboflow or separately)
-datasets/
 
 # python
 __pycache__/
