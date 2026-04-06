@@ -1,8 +1,8 @@
 
-Doppler Waveforms - v4 2026-03-30 6:50pm
+Doppler Waveforms - v6 2026-04-06 2:27pm
 ==============================
 
-This dataset was exported via roboflow.com on March 30, 2026 at 11:50 AM GMT
+This dataset was exported via roboflow.com on April 6, 2026 at 4:30 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 100 images.
+The dataset includes 749 images.
 Ultrasound-Waves are annotated in YOLOv11 format.
 
 The following pre-processing was applied to each image:
