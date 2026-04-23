@@ -4,8 +4,8 @@ import numpy as np
 from pathlib import Path
 from ultralytics import YOLO
 
-MODEL = "runs/detect/train2/weights/best.pt"
-CONF = 0.25
+MODEL = "/Users/hanlonghu/UNSW/COMP3900/model/best.pt"
+CONF = 0.1
 # Merge boxes whose vertical overlap ratio exceeds this threshold
 MERGE_IOU_THRESHOLD = 0.5
 

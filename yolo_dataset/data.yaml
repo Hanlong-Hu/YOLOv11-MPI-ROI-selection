@@ -1,0 +1,6 @@
+path: /Users/hanlonghu/UNSW/COMP3900/yolo_dataset
+train: images/train
+val: images/val
+test: images/test
+nc: 1
+names: ['waveform']
